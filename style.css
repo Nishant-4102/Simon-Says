@@ -57,3 +57,16 @@ body {
         
 }      
     
+@media (max-width : 550px){
+
+    .btn {
+        height: 50px;
+        width: 50px;
+        border: 5px solid black;
+        border-radius: 1rem;
+        margin: 0.5rem;
+
+        transition: ease-in-out all 0.5s;
+    }
+        
+}   
